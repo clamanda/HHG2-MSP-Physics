@@ -12,6 +12,7 @@ This repository contains extra resources for fundamentals of mathematics and phy
     <td>
          <ul><li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Coordinate-Systems">Coordinate systems</a> </li>
           <li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Differentiation">Differentiation</a></li>
+          <li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Differentiation 2">Differentiation</a></li>
           <li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Lagrangian">Lagrangian</a> </li></ul>
    </td>
  </tr>
