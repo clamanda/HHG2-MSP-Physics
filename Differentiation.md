@@ -1,4 +1,8 @@
-# Overview of what differentiation is:
+<div class="text-blue mb-2">
+  # Differentiation
+</div>
+
+## Overview of what differentiation is:
 
 Differentiation is, by definition, the way to find a function that represents the rate of change of one variable with respect to another variable. To begin simply, we will take a variable that changes across time, like a car traveling along a road for a defined amount of time. By differentiating this, we can find the velocity. By further differentiating that, the acceleration can be found. Why this is will be further discussed below:
 
@@ -8,18 +12,18 @@ The next step involves understanding what the slope is, and how it can be rewrit
 
 It won't always be as easy as this though, as most graphs in physics are curved, which makes getting the slope much harder to get. In this way, a tangential line is used to represent the slope at a given point. The definition of a tangent is something that only just touches the line, such as in the image below. The point that it intersects at is infinitesimally small, and will from now on be referred to as “d” instead of delta (which represents a finite difference). Therefor, the slope at a tangential point on the graph of position versus time will be written as dxdt; a differentiation. 
 
-# Different notations
+## Different notations
 In many study materials, you will encounter variations of the notations of derivatives. These different notations are denoted below, so you can recognise them.
 Leibniz’s notation: dydxordfdx or ddxf for the first derivative of a function y or f dependent on x. The second derivatives are d2ydx2,d2fdx2, d2dx2f and  respectively.
 Lagrange’s notation: f’ for the first derivative and f’’  for the second derivative (any derivative beyond the third derivative - f’’’ - is denoted as fnfor the nth derivative).
 Newton’s notation: ẏ for the first derivative and ÿ for the second.
 Euler’s notation: Dxyor Dxf(x)for the first derivative; Dxnf(x)  for the nth derivative.
 
-# Important differentiation rule
+## Important differentiation rule
 When a function is derived with respect to a variable, this general rule applies for finding the derivative:
 For f(x) = axn→ f’(x) = naxn-1
 
-# Rules for combined functions
+## Rules for combined functions
 Constant rule: If a function f(x) is constant, then its derivative is zero.
 f(x) = c where c is a constant, then: f’(x) = 0.
 
@@ -35,7 +39,7 @@ f = gh→  f’ = g'h-gh'h2
 Chain rule: This rule is used for composite functions, like, for example f(x) = h(g(x)). So, h is a function of g and g in turn is a function of x. The derivative of such a composite function is:
 f’(x) = h’(g(x))g’(x).
 
-# Applications of derivatives in real life
+## Applications of derivatives in real life
 Business: in business, differentiation is used to determine the profit and loss using graphs.
 Optimisation: in optimisation, differentiation is used on many occasions. Say, for example, you have a limited amount of material to produce a cylinder that holds liquid. Differentiation can help you to find out how to use the material to make a cylinder that is capable of holding the maximum amount of liquid.
 Physics: by using differentiation, a moving body’s position allows you to calculate its velocity and acceleration.
