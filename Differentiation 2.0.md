@@ -49,6 +49,8 @@ For *f(x) = axn→ f’(x) = naxn-1*
 
 Below is a list of common derivatives.
 
+![](https://github.com/cpawley/HHG2-MSP-Physics/pull/5#issue-555014397)
+
 Sometimes, it can be hard to imagine how a certain graph looks yet having an image in mind may prove to be useful when working with derivatives. Below are a few graphs corresponding to some standard derivatives.
 
 
@@ -66,9 +68,9 @@ Sometimes, it can be hard to imagine how a certain graph looks yet having an ima
 
 </div>
 
-<div class="bg-yellow-light mb-2">
-  **Answers:**
 
+<div class="bg-yellow-light mb-2">
+ **Answers:**
 1. f’(x) = 16x3 + 6x
 2. f’(x) = sin(2x) + 2xcos(2x) 	                                                                         Product + Chain rules
 3. f’(x) = x2ex-2xexx4 = xex(x-2)x4= ex(x-2)x3                                                        Quotient rule
