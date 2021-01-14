@@ -1,6 +1,7 @@
+</div> 
 # Differentiation 
 
-# Overview of what differentiation is:
+## Overview of what differentiation is:
 
 Differentiation is, by definition, the way to find a function that represents the rate of change of one variable with respect to another variable. To begin simply, we will take a variable that changes across time, like a car traveling along a road for a defined amount of time. By differentiating this, we can find the velocity. By further differentiating that, the acceleration can be found. Why this is will be further discussed below:
 
@@ -66,13 +67,11 @@ Sometimes, it can be hard to imagine how a certain graph looks yet having an ima
 </div>
 
 <div class="bg-yellow-light mb-2">
-
-**Answers:**
+  **Answers:**
 
 1. f’(x) = 16x3 + 6x
 2. f’(x) = sin(2x) + 2xcos(2x) 	                                                                         Product + Chain rules
 3. f’(x) = x2ex-2xexx4 = xex(x-2)x4= ex(x-2)x3                                                        Quotient rule
 4. f’(x) = 1x22x =2x            
-
 </div>
 
